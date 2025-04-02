@@ -1,4 +1,4 @@
-machine learning project list  
+## machine learning project list  
 1(LINEAR REGRESSION)house_price_prediction  
 2(LINEAR REGRESSION)insurance_charges prediction  
 3(LOGISTIC REGRESSION)bank loan prediction  
